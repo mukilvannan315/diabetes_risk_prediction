@@ -289,14 +289,3 @@ Contributions are welcome! If you'd like to contribute to this project:
 - Inspired by the need for early diabetes detection and prevention
 - Thanks to the open-source community for the amazing tools and libraries
 
-## 📞 Contact
-
-For any questions, suggestions, or feedback:
-- Open an issue on GitHub
-- Contact through GitHub profile
-
----
-
-**Note**: This project is for educational and research purposes. Always consult healthcare professionals for medical advice and diagnosis.
-
-⭐ If you find this project useful, please consider giving it a star on GitHub!
